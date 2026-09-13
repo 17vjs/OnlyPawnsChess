@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlyPawnChess</string>
+    <string name="computer_thinking">Computer thinking...</string>
+</resources>
